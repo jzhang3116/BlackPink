@@ -45,7 +45,7 @@ li {
 }
 
 .video {
-    opacity: 50%;
+    opacity: .5;
     width: 100%;
     filter: blur(7px);
 }
